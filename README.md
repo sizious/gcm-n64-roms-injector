@@ -11,4 +11,4 @@ the game name in the last field. Click the `Inject` button to apply.
 
 ## Credits
 
-Icons by Fooods.
+Icons were made by **Fooods**.
